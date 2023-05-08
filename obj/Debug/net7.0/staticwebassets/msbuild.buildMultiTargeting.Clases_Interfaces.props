@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Clases_Interfaces.props" />
+</Project>
