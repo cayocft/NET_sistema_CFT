@@ -16,12 +16,72 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Edgardo\Documents\CFT\2023\Semestre I\Desarrollo con Herramientas Privadas\Proyectos Visual Studio\Clases_Interfaces
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Asignaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Asignaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Asignaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Asignaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Asignaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Estudiantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Estudiantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Estudiantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Estudiantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Estudiantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Matriculadoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhZG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Matriculadoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhZG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Matriculadoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhZG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Matriculadoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhZG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Matriculadoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0cmljdWxhZG9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Edgardo/Documents/CFT/2023/Semestre I/Desarrollo con Herramientas Privadas/Proyectos Visual Studio/Clases_Interfaces/Views/Shared/Error.cshtml]

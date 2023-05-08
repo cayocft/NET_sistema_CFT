@@ -1,0 +1,23 @@
+﻿@model Clases_Interfaces.Models.Matriculado
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Matriculado</h4>
+    <hr />
+    <dl class="row">
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdEstudiante" />
+        <input type="hidden" asp-for="IdAsignatura" />
+        <input type="hidden" asp-for="IdPrimaryKey" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

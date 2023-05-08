@@ -20,4 +20,5 @@ public partial class Estudiante
     public int Edad { get; set; }
 
     public string FechaNacimiento { get; set; } = null!;
+    public string Password { get; set; } = null!;
 }
